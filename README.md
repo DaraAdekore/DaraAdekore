@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaraAdekore
-- 👀 I’m interested in Native iOS Development involving Swift/SwiftUI/UIKit
-- 🌱 I’m always learning more about Swift/SwiftUI
+- 👀 I’m A Web and Mobile developer
+- 🌱 I’m always learning more about making exicting websites and mobile apps
 - 📫 Please feel free to contact me via email!
 
 ~ Choose to unleash goodness into the world ~
